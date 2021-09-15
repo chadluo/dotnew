@@ -11,6 +11,7 @@ Please help contribute since these urls are not always well documented.
 ## Canva
 
 - [canva.new](https://canva.new) - Canva design project
+- [design.new](https://design.new) - same as above
 
 ## Google
 
