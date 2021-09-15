@@ -6,34 +6,34 @@ Please help contribute since these urls are not always well documented.
 
 ## Adobe
 
-- [photo.new](photo.new) - _Adobe Photoshop homepage, not a new project_
+- [photo.new](https://photo.new) - _Adobe Photoshop homepage, not a new project_
 
 ## Canva
 
-- [canva.new](canva.new) - Canva design project
+- [canva.new](https://canva.new) - Canva design project
 
 ## Google
 
 Some will work with the plural form, for example doc.new versus docs.new
 
-- [cal.new](cal.new) - Google Calendar
-- [doc.new](doc.new) - Google Docs
-- [form.new](form.new) - Google Forms
-- [sheet.new](sheet.new) - Google Sheets
-- [site.new](site.new) - Google Sites
-- [slide.new](slide.new) - Google Slides
+- [cal.new](https://cal.new) - Google Calendar
+- [doc.new](https://doc.new) - Google Docs
+- [form.new](https://form.new) - Google Forms
+- [sheet.new](https://sheet.new) - Google Sheets
+- [site.new](https://site.new) - Google Sites
+- [slide.new](https://slide.new) - Google Slides
 
 ## Microsoft
 
-- [word.new](word.new) - Microsoft Word
-- [excel.new](excel.new) - Microsoft Excel
-- [ppt.new](ppt.new) - Microsoft Powerpoint
+- [word.new](https://word.new) - Microsoft Word
+- [excel.new](https://excel.new) - Microsoft Excel
+- [ppt.new](https://ppt.new) - Microsoft Powerpoint
 
 ## Miricanvas
 
-- [canvas.new](canvas.new) - Miricanvas design project
+- [canvas.new](https://canvas.new) - Miricanvas design project
 
 ## _Unknown_
 
-- [order.new](order.new)
-- [bug.new](bug.new)
+- [bug.new](https://bug.new)
+- [order.new](https://order.new)
