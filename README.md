@@ -1,6 +1,6 @@
 # dotnew
 
-A list of apps where you can use .new to create a new project.
+A list of apps where you can access via a .new url.
 
 Please help contribute since these urls are not always well documented.
 
@@ -42,6 +42,10 @@ Some will work with the plural form, for example doc.new versus docs.new
 ## Sketch.IO
 
 - [sketch.new](https://sketch.new) - Sketchpad
+
+## Uber
+
+- [food.new](https://food.new) - Uber Eats
 
 ## _Unknown_
 
