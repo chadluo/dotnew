@@ -20,6 +20,8 @@ Some will work with the plural form, for example doc.new versus docs.new
 - [cal.new](https://cal.new) - Google Calendar
 - [doc.new](https://doc.new) - Google Docs
 - [form.new](https://form.new) - Google Forms
+- [meet.new](https://meet.new) - Google Meet
+- [meeting.new](https://meeting.new) - same as Google Calendar
 - [sheet.new](https://sheet.new) - Google Sheets
 - [site.new](https://site.new) - Google Sites
 - [slide.new](https://slide.new) - Google Slides
