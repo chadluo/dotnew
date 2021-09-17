@@ -24,6 +24,11 @@ Some will work with the plural form, for example doc.new versus docs.new
 - [site.new](https://site.new) - Google Sites
 - [slide.new](https://slide.new) - Google Slides
 
+### Google internal tools
+
+- [bug.new](https://bug.new)
+- [project.new](https://project.new)
+
 ## Microsoft
 
 - [word.new](https://word.new) - Microsoft Word
@@ -36,5 +41,4 @@ Some will work with the plural form, for example doc.new versus docs.new
 
 ## _Unknown_
 
-- [bug.new](https://bug.new)
 - [order.new](https://order.new)
