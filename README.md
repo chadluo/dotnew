@@ -39,6 +39,10 @@ Some will work with the plural form, for example doc.new versus docs.new
 
 - [canvas.new](https://canvas.new) - Miricanvas design project
 
+## Sketch.IO
+
+- [sketch.new](https://sketch.new) - Sketchpad
+
 ## _Unknown_
 
 - [order.new](https://order.new)
